@@ -1,5 +1,29 @@
 # 💫 About Me:
-## Hi there 👋<br><br>I'm **Ryheem**, aka **The One**, a curious mind crafting code with purpose and heart.  <br>I’m a **technical support pro turned software craftsman**, bridging the worlds of networks, clouds, and clean UI.<br><br>- 🔭 I’m currently building:<br>  - A **SaaS app** for reviewing books and research papers with AI  <br>  - A mood-based **playlist generator** using React, Python, and the Spotify API  <br>  - My **career in cloud, networking, and server engineering**<br><br>- 🌱 Always learning:<br>  - **Django REST Framework**, **React.js**, and how to **ship production-ready full-stack apps**  <br>  - Automation, orchestration, and dev wizardry with **Ansible, Linux, and Azure**<br><br>- 👯 I’m looking to collaborate on:<br>  - Projects that combine creativity + functionality  <br>  - Tools that solve real-world problems for underserved communities<br><br>- ⚡ Fun facts:<br>  - I write romantic poems for TikTok 💘  <br>  - I play piano when my code compiles without errors 🎹  <br>  - I document everything in Obsidian like a tech monk in the cloud temple 📜☁️<br><br>- 💬 Let’s talk about:<br>  - Cloud architecture, network engineering, Django, or just how wild tech is becoming  <br><br>- 🎬 Check out my [Movie Recommendation App](https://ryheembon.github.io/Movie-Recommender-Application/)<br><br>- 📫 Reach me:<br>  - [LinkedIn](https://www.linkedin.com/in/ryheem-bonaparte/)<br>  - [GitHub](https://github.com/Ryheembon)<br>
+## Hi there 👋<br><br>
+I'm **Ryheem**, aka **The One** — a technical support pro turned cloud-savvy developer, blending networks, code, and creativity. 🚀<br><br>
+
+- 🔭 Currently building:<br>
+  - A **SaaS app** for AI-powered research/book reviews<br>
+  - A mood-based **playlist generator** using React & Python<br>
+  - My **future in cloud, networking, and full-stack engineering**<br><br>
+
+- 🌱 Learning:<br>
+  - **Django REST**, **React.js**, and scalable full-stack apps<br>
+  - **Ansible**, **Linux**, and cloud platforms like **Azure**<br><br>
+
+- 👯 Open to collaborate on:<br>
+  - Creative tools with real-world impact<br>
+  - Meaningful open-source projects<br><br>
+
+- ⚡ Fun facts:<br>
+  - Poet on TikTok 💘 & pianist when code behaves 🎹<br>
+  - Obsessed with documenting in Obsidian 📜☁️<br><br>
+
+- 🎬 [Movie Recommendation App](https://ryheembon.github.io/Movie-Recommender-Application/)<br><br>
+
+- 📫 Reach me:<br>
+  - [LinkedIn](https://www.linkedin.com/in/ryheem-bonaparte/)<br>
+  - [GitHub](https://github.com/Ryheembon)<br>
 
 
 ## 🌐 Socials:
