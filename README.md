@@ -1,23 +1,6 @@
-# 💫 Ryheem Bonaparte:
+# 💫 About Me:
 ## Hi there 👋<br><br>
-I'm **Ryheem**, aka **The One** — a technical support pro turned cloud-savvy developer, blending networks, code, and creativity. 🚀<br><br>
-
-- 🔭 Currently building:<br>
-  - A **SaaS app** for AI-powered research/book reviews<br>
-  - A mood-based **playlist generator** using React & Python<br>
-  - My **future in cloud, networking, and full-stack engineering**<br><br>
-  
-- 🌱 Learning:<br>
-  - **Django REST**, **React.js**, and scalable full-stack apps<br>
-  - **Ansible**, **Linux**, and cloud platforms like **Azure**<br><br>
-
-- 👯 Open to collaborate on:<br>
-  - Creative tools with real-world impact<br>
-  - Meaningful open-source projects<br><br>
-
-- ⚡ Fun facts:<br>
-  - Poet on TikTok 💘 & pianist when code behaves 🎹<br>
-  - Obsessed with documenting in Obsidian 📜☁️<br><br>
+I'm **Ryheem**, aka **The One** — a technical support pro turned developer, blending networks, clouds, and code into creative tools. I'm currently building an AI-powered SaaS for reviewing books and research papers, a mood-based playlist generator with React and Python, and leveling up in cloud and server engineering. I'm diving deep into Django REST, React.js, Ansible, Linux, and Azure to ship production-ready apps. I’m open to collaborating on real-world solutions that fuse function with heart. Fun fact: I write romantic poems for TikTok, play piano when the code compiles, and document everything like a digital monk in Obsidian. 🎹💘☁️<br><br>🎬 [Movie Recommendation App](https://ryheembon.github.io/Movie-Recommender-Application/) • 📫 [LinkedIn](https://www.linkedin.com/in/ryheem-bonaparte/) • [GitHub](https://github.com/Ryheembon)<br>
 
 - 🎬 [Movie Recommendation App](https://ryheembon.github.io/Movie-Recommender-Application/)<br><br>
 
