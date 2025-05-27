@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Ryheem Bonaparte:
 ## Hi there 👋<br><br>
 I'm **Ryheem**, aka **The One** — a technical support pro turned cloud-savvy developer, blending networks, code, and creativity. 🚀<br><br>
 
@@ -6,7 +6,7 @@ I'm **Ryheem**, aka **The One** — a technical support pro turned cloud-savvy d
   - A **SaaS app** for AI-powered research/book reviews<br>
   - A mood-based **playlist generator** using React & Python<br>
   - My **future in cloud, networking, and full-stack engineering**<br><br>
-
+  
 - 🌱 Learning:<br>
   - **Django REST**, **React.js**, and scalable full-stack apps<br>
   - **Ansible**, **Linux**, and cloud platforms like **Azure**<br><br>
