@@ -1,12 +1,6 @@
 # 💫 About Me:
 ## Hi there 👋<br><br>
 I'm Ryheem — a technical support specialist making the transition into software development, with a growing passion for cloud, networking, and building meaningful tech. Right now, I'm working on a SaaS app that uses AI to review books and research papers, and a mood-based playlist generator built with React and Python. I'm actively learning Django REST Framework, React.js, Ansible, Linux, and Azure to sharpen my full-stack skills and deploy real-world apps. I'm always open to collaborating on projects that combine utility with creativity. On the lighter side, I enjoy playing piano when I’m in the coding zone, and keeping my notes organized in Obsidian like a true documentation nerd. 🎹💘☁️<br><br>🎬 [Movie Recommendation App](https://ryheembon.github.io/Movie-Recommender-Application/) • 📫 [LinkedIn](https://www.linkedin.com/in/ryheem-bonaparte/) • [GitHub](https://github.com/Ryheembon)<br>
-
-- 📫 Reach me:<br>
-  - [LinkedIn](https://www.linkedin.com/in/ryheem-bonaparte/)<br>
-  - [GitHub](https://github.com/Ryheembon)<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ryheem-bonaparte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryheembon@gmail.com) 
 # 📊 GitHub Stats:
